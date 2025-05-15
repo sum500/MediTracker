@@ -1,4 +1,4 @@
-# 🩺 MediTracker – Medication & Health Tracking App
+ # 🩺 MediTracker – Medication & Health Tracking App
 
 *MediTracker* is a full-stack health management application built using the *MERN stack* (MongoDB, Express.js, React, Node.js). It empowers users to monitor their daily medications, appointments, vital health stats, and medical documents in one unified platform.
 
